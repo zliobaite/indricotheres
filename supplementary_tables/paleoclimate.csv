@@ -1,0 +1,69 @@
+LIDNUM	NAME	COUNTRY	MAX_AGE	MIN_AGE	GENUS	SPECIES	UNIQUE	BODYMASS	AVG_AGE	LAT	LONG	EXTIMATED_VARIABLE	UNIT	ANNUAL_MEAN	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec	
+22883	Agyspe Oligocene	Kazakhstan	27.8	23	Aralotherium	prohorovi	0	8000000	25.4	46.8	60.5	near-surface air temperature	degC	18.7	-3.2	0.1	8.5	19	30	39.1	44.2	40.2	28.2	14.2	5.1	-1.3	
+23039	Saerduoyila	China	26.7	23	Aralotherium	sui	0	13000000	24.8	46.6	87.7	near-surface air temperature	degC	3.7	-16.9	-13.5	-7.9	1	9.8	20.4	31.3	29.4	15.2	0.6	-9.3	-15.3	
+22588	Ushkul	Kazakhstan	26.7	23	Aralotherium	prohorovi	0	8000000	24.8	51.8	62.3	near-surface air temperature	degC	12.8	-10.6	-8.6	0.9	12.8	24.5	34.1	40.3	35.7	22.9	9	0	-7	
+24467	Dongxiang Jiaozigou Fm	China	26.7	23	Dzungariotherium	orgosense	0	19696362	24.8	35.6	103.3	near-surface air temperature	degC	17.6	-0.7	4.6	11.6	18.5	26.4	35.2	34.1	32.3	28.1	15.8	5.1	-0.3	Valdes et al (2021)
+29549	Feiyue Railway station	China	33.9	23	Dzungariotherium	turfanense	0	11600000	28.5	42.9	89.1	near-surface air temperature	degC	21.3	-4	1.5	10.2	19.8	29.8	42.2	50.5	48.2	37.6	16.8	5.1	-2.3	Valdes et al (2021)
+29549	Feiyue Railway station	China	33.9	23	Dzungariotherium	tienshanense	0	19600000	28.5	42.9	89.1	near-surface air temperature	degC	21.3	-4	1.5	10.2	19.8	29.8	42.2	50.5	48.2	37.6	16.8	5.1	-2.3	Valdes et al (2021)
+29546	Jiaozigou Fm.	China	29.2	28.3	Dzungariotherium	orgosense	0	19696362	28.7	35	103.9	near-surface air temperature	degC	26.5	5.5	11.9	20.1	28.1	37	45.9	43.8	41.5	39.1	26.2	13.1	6.4	Valdes et al (2021)
+29545	Qingshuiying Fm.	China	32.1	30.3	Dzungariotherium	sp.	new from Lingwu		31.2	38.2	106.7	near-surface air temperature	degC	16.6	-1.8	2.1	8.5	15.5	24.2	34.9	35.3	32.4	28.9	15.4	4.2	-0.8	Valdes et al (2021)
+29036	Wangjiachuan LX1808	China	26.3	26.1	Dzungariotherium	orgosense	0	19696362	26.2	35.6	103.3	near-surface air temperature	degC	17.6	-0.7	4.6	11.6	18.5	26.4	35.2	34.1	32.3	28.1	15.8	5.1	-0.3	Valdes et al (2021)
+26578	Haiyuan-hongliugou	China	23.8	22.8	indet.	indet.	0		23.3	36.5	105.3	near-surface air temperature	degC	14.7	-2	2.4	8.7	15.1	22.9	31.4	29.9	28.4	24.4	13	3.1	-1.3	Valdes et al (2021)
+27064	Tieersihabahe_I	China	24.6	23	indet.	indet.	0		23.8	46.7	88.5	near-surface air temperature	degC	3.7	-16.9	-13.5	-7.9	1	9.8	20.4	31.3	29.4	15.2	0.6	-9.3	-15.3	
+22927	Tosbulak	Kazakhstan	24.6	23	indet.	indet.	0		23.8	42.3	67.8	near-surface air temperature	degC	20.3	-0.5	2.9	11	20.6	30.3	38.4	45	41.8	29.9	15.5	6.9	1.2	
+26554	Ladakh 1	India	41.2	37.7	Juxia	sharamurense	0	1300000	39.5	33.1	78.5	near-surface air temperature	degC	32.8	23.1	27.6	33	37.1	41.4	47.2	37.1	31.1	33.2	35.8	25.5	21.8	
+22600	Ula Usu	China	48.6	33.9	Juxia	sharamurense	0	1300000	41.3	42.5	110.8	near-surface air temperature	degC	15.6	-5.8	-2	4.3	12.6	24.7	37	38.1	36.3	30.3	14.1	2.3	-4.4	
+24242	Upper Lumeiyi	China	48.6	41.3	Juxia	indet.	0		45	24.8	103.3	near-surface air temperature	degC	30.8	17.2	22.1	29.5	35.8	40.1	43.1	38.2	35.3	35.1	32.6	23.5	17.3	
+24245	Wulidui	China	48.6	41.3	Juxia	micracis	0		45	32.5	113.4	near-surface air temperature	degC	28.3	10.6	15.9	24.1	32.2	39.7	43	41.4	39.6	38.2	28.8	16.4	10	
+22926	Alatage	Kazakhstan	24.6	23	Paraceratherium	indet.	0		23.8	48	66.9	near-surface air temperature	degC	14.1	-9.5	-6.7	3.2	13.8	24.8	34.3	42.3	38.5	24.5	9.8	0.4	-6	
+22929	Altynshokysu	Kazakhstan	24.6	21.7	Paraceratherium	indet.	0		23.1	47.3	61	near-surface air temperature	degC	14.3	-8.2	-5.7	3.4	13.9	24.9	34.1	41.3	37.4	24.2	9.9	1.2	-5	
+22585	Atam-Bas-Chink	Kazakhstan	26.7	23	Paraceratherium	indet.	0		24.8	48.3	63.8	near-surface air temperature	degC	16.5	-6.5	-3.3	5.5	16.9	28.4	37.5	43.4	39.1	26.4	12	2.6	-4	
+27119	Benara	Georgia	27.8	23	Paraceratherium	callistrati	0		25.4	41.7	42.8	near-surface air temperature	degC	24.7	3.6	8.1	15.3	24.3	34.1	43.9	49.1	45.7	35	20.4	11.5	4.8	
+24193	Caijiachong	China	37.4	33.9	Paraceratherium	intermedium	0		35.6	25.6	103.8	near-surface air temperature	degC	28.8	16.2	21.6	28.7	34.5	37.8	40.1	35	32.4	32	30.6	20.5	16	Valdes et al (2021)
+24193	Caijiachong	China	37.4	33.9	Paraceratherium	qujingensis	0		35.6	25.6	103.8	near-surface air temperature	degC	28.8	16.2	21.6	28.7	34.5	37.8	40.1	35	32.4	32	30.6	20.5	16	Valdes et al (2021)
+22568	Chelkar-Teniz	Kazakhstan	28.5	23	Paraceratherium	transouralicum	0	13000000	25.7	48	63.3	near-surface air temperature	degC	16.5	-6.5	-3.3	5.5	16.9	28.4	37.5	43.4	39.1	26.4	12	2.6	-4	Valdes et al (2021)
+22568	Chelkar-Teniz	Kazakhstan	28.5	23	Paraceratherium	asiaticum	0	10600000	25.7	48	63.3	near-surface air temperature	degC	16.5	-6.5	-3.3	5.5	16.9	28.4	37.5	43.4	39.1	26.4	12	2.6	-4	Valdes et al (2021)
+22568	Chelkar-Teniz	Kazakhstan	28.5	23	Paraceratherium	minor	0		25.7	48	63.3	near-surface air temperature	degC	16.5	-6.5	-3.3	5.5	16.9	28.4	37.5	43.4	39.1	26.4	12	2.6	-4	Valdes et al (2021)
+26579	Dear Bugti Chatt.	Pakistan	27.8	23	Paraceratherium	bugtiense	0	10448621	25.4	29	69	near-surface air temperature	degC	31.3	25.2	31.4	36.9	40.1	37	31.4	28.7	28.9	30.5	33	29.6	23.4	Valdes et al (2021)
+26580	Dera Bugti Rup.	Pakistan	33.9	27.8	Paraceratherium	bugtiense	0	10448621	30.9	29	69.2	near-surface air temperature	degC	32.8	27	33.3	39.4	40	35.9	34.2	30.3	29.7	31.4	35	31.8	26	Valdes et al (2021)
+24467	Dongxiang Jiaozigou Fm	China	26.7	23	Paraceratherium	linxiaense	0	9800000	24.8	35.6	103.3	near-surface air temperature	degC	17.6	-0.7	4.6	11.6	18.5	26.4	35.2	34.1	32.3	28.1	15.8	5.1	-0.3	Valdes et al (2021)
+22643	Erden Obo	China	33.9	30.3	Paraceratherium	asiaticum	0	10600000	32.1	42.6	111.5	near-surface air temperature	degC	15.6	-6.7	-1.8	5	13.3	23.6	36.4	39.4	37.4	30	13.3	1.9	-4.5	Valdes et al (2021)
+29549	Feiyue Railway station	China	33.9	23	Paraceratherium	lepidum	0	14200000	28.5	42.9	89.1	near-surface air temperature	degC	21.3	-4	1.5	10.2	19.8	29.8	42.2	50.5	48.2	37.6	16.8	5.1	-2.3	Valdes et al (2021)
+23661	G???¶zukizilli 0	Turkey	26.7	23	Paraceratherium	indet.	0		24.8	40.1	43.6	near-surface air temperature	degC	20.8	3.2	6.5	12.4	19.5	27.6	35.9	41.3	38.3	31.1	18.7	10.9	4.5	Valdes et al (2021)
+24205	Houldjin	China	41.3	33.9	Paraceratherium	indet.	0		37.6	44	112	near-surface air temperature	degC	15.5	-6.5	-1.9	5.6	13.1	23.3	37.1	39.8	35.4	30.8	13.3	1.3	-4.9	Valdes et al (2021)
+26781	Huch Teeg	Mongolia	27.8	23	Paraceratherium	indet.	0		25.4	45.5	101.2	near-surface air temperature	degC	8.6	-15.2	-10.8	-1.3	6.9	15.6	28.2	36.4	34.4	21	5.4	-4.5	-12.6	Valdes et al (2021)
+29546	Jiaozigou Fm.	China	29.2	28.3	Paraceratherium	linxiaense	0	9800000	28.7	35	103.9	near-surface air temperature	degC	26.5	5.5	11.9	20.1	28.1	37	45.9	43.8	41.5	39.1	26.2	13.1	6.4	Valdes et al (2021)
+22587	Kara-Tau	Kazakhstan	26.7	23	Paraceratherium	indet.	0		24.8	44.2	51.8	near-surface air temperature	degC	20.3	-0.5	2.6	10.4	20.3	30.8	39.8	44.7	40.9	29.8	16.2	7.8	1.2	Valdes et al (2021)
+22584	Kara-Turgai	Kazakhstan	26.7	23	Paraceratherium	transouralicum	0	13000000	24.8	50	66.2	near-surface air temperature	degC	10.3	-11.9	-9.9	-1.3	9.6	20.2	29.8	38	33.6	19.5	6.2	-2.1	-8.5	Valdes et al (2021)
+22584	Kara-Turgai	Kazakhstan	26.7	23	Paraceratherium	asiaticum	0	10600000	24.8	50	66.2	near-surface air temperature	degC	10.3	-11.9	-9.9	-1.3	9.6	20.2	29.8	38	33.6	19.5	6.2	-2.1	-8.5	Valdes et al (2021)
+22928	Karakoin	Kazakhstan	28.8	23	Paraceratherium	transouralicum	0	13000000	25.9	46.2	68.7	near-surface air temperature	degC	18.5	-2.8	0.9	8.5	17.5	27.4	36.5	45.7	43.1	28.2	13.4	4.3	-1.1	Valdes et al (2021)
+24159	Khoer Dzan (Ergilin Mbr)	Mongolia	41.3	33.9	Paraceratherium	indet.	0		37.6	43.8	111.2	near-surface air temperature	degC	15.5	-6.5	-1.9	5.6	13.1	23.3	37.1	39.8	35.4	30.8	13.3	1.3	-4.9	Valdes et al (2021)
+21812	Khoer Dzan gen.	Mongolia	33.9	28.5	Paraceratherium	parvum	0		31.2	45.2	109.2	near-surface air temperature	degC	14.3	-11.1	-5.2	2.5	12.1	23.6	37.4	40.8	38.9	28.9	12.2	0	-8.1	Valdes et al (2021)
+22562	Kiin-Kerish gen.	Kazakhstan	48.6	28.5	Paraceratherium	indet.	0		38.5	48	84	near-surface air temperature	degC	15.7	-7.5	-4.2	2.8	12.1	23.7	37.7	46.2	42.7	28.4	10.3	0.6	-4.8	Valdes et al (2021)
+29547	Lanzhou - Nanpoping	China	33.2	29.5	Paraceratherium	huangheense	0	14500000	31.3	36.1	103.9	near-surface air temperature	degC	26.5	5.5	11.9	20.1	28.1	37	45.9	43.8	41.5	39.1	26.2	13.1	6.4	Valdes et al (2021)
+24219	Lower Shargaltein	China	33.9	28.5	Paraceratherium	indet.	0		31.2	39.8	97	near-surface air temperature	degC	21.8	0.6	6	13.5	21.4	30.2	41.3	43.4	40.4	35.7	19.9	7.6	1.4	Valdes et al (2021)
+29592	Lundo Chur J2	Pakistan	26.7	23	Paraceratherium	bugtiense	0	10448621	24.8	28.9	69.1	near-surface air temperature	degC	31.3	25.2	31.4	36.9	40.1	37	31.4	28.7	28.9	30.5	33	29.6	23.4	Valdes et al (2021)
+23037	Nom Khong Obo	China	33.9	30.3	Paraceratherium	asiaticum	0	10600000	32.1	44	112	near-surface air temperature	degC	14.6	-8.1	-2.7	3.9	12.9	23.1	35.1	36.7	36.2	29	13.5	1.7	-5.6	Valdes et al (2021)
+29545	Qingshuiying Fm.	China	32.1	30.3	Paraceratherium	transouralicum	0	13000000	31.2	38.2	106.7	near-surface air temperature	degC	16.6	-1.8	2.1	8.5	15.5	24.2	34.9	35.3	32.4	28.9	15.4	4.2	-0.8	Valdes et al (2021)
+22892	Saint Jacques	China	32.6	28.8	Paraceratherium	transouralicum	0	13000000	30.7	40.8	111.7	near-surface air temperature	degC	23.7	0.1	6.2	14	23.2	33.8	44.8	45.4	44.2	38.6	22	9.8	2	Valdes et al (2021)
+22892	Saint Jacques	China	32.6	28.8	Paraceratherium	indet.	0		30.7	40.8	111.7	near-surface air temperature	degC	23.7	0.1	6.2	14	23.2	33.8	44.8	45.4	44.2	38.6	22	9.8	2	Valdes et al (2021)
+22586	Sary-Su	Kazakhstan	26.7	23	Paraceratherium	indet.	0		24.8	47	67	near-surface air temperature	degC	18.8	-3.4	0.4	9	19.3	29.8	38.5	45.1	41.5	28.6	14	4.5	-1.4	Valdes et al (2021)
+22555	Shintuz-Sai	Kazakhstan	30.3	26.7	Paraceratherium	transouralicum	0	13000000	28.5	49.6	63.5	near-surface air temperature	degC	13.1	-8.8	-6.4	1.3	11.3	22	32.9	42.3	38.2	22	7.8	0.4	-5.8	Valdes et al (2021)
+22555	Shintuz-Sai	Kazakhstan	30.3	26.7	Paraceratherium	minor	0		28.5	49.6	63.5	near-surface air temperature	degC	13.1	-8.8	-6.4	1.3	11.3	22	32.9	42.3	38.2	22	7.8	0.4	-5.8	Valdes et al (2021)
+22897	Shuidonggou	China	32.6	28.8	Paraceratherium	transouralicum	0	13000000	30.7	38.2	106.2	near-surface air temperature	degC	27.9	5.4	12.1	20.6	29	38.5	48.8	47.7	44.9	41.1	26.3	13.7	6.5	Valdes et al (2021)
+22904	Shunkht	Mongolia	32.6	28.8	Paraceratherium	indet.	0		30.7	44	107	near-surface air temperature	degC	17	-5.8	-0.7	6.4	14.6	24.8	37.8	42.1	39.8	31.6	14.2	2.6	-3.8	Valdes et al (2021)
+22310	Tatal Gol	Mongolia	33	29	Paraceratherium	transouralicum	0	13000000	31	45.3	101.8	near-surface air temperature	degC	14.4	-11.1	-5.4	3.2	11.9	22.6	36.1	43.1	40.9	29.4	10.5	-0.7	-8.1	Valdes et al (2021)
+24169	Ulaan Khongil (Shand Mbr)	Mongolia	33.9	28.5	Paraceratherium	transouralicum	0	13000000	31.2	46	101	near-surface air temperature	degC	14.4	-11.1	-5.4	3.2	11.9	22.6	36.1	43.1	40.9	29.4	10.5	-0.7	-8.1	Valdes et al (2021)
+24170	Ulaan Khongil (Tatal Mbr)	Mongolia	33.9	28.5	Paraceratherium	transouralicum	0	13000000	31.2	46	101	near-surface air temperature	degC	14.4	-11.1	-5.4	3.2	11.9	22.6	36.1	43.1	40.9	29.4	10.5	-0.7	-8.1	Valdes et al (2021)
+24242	Upper Lumeiyi	China	48.6	41.3	Paraceratherium	parvum	0		45	24.8	103.3	near-surface air temperature	degC	30.8	17.2	22.1	29.5	35.8	40.1	43.1	38.2	35.3	35.1	32.6	23.5	17.3	Valdes et al (2021)
+24240	Upper Shargaltein	China	28.5	23	Paraceratherium	indet.	0		25.7	39.8	97	near-surface air temperature	degC	19.2	-1.8	4.2	11.9	19.3	27.9	38.4	40.1	38.2	31.7	16.7	5	-1	Valdes et al (2021)
+29036	Wangjiachuan LX1808	China	26.3	26.1	Paraceratherium	linxiaense	0	9800000	26.2	35.6	103.3	near-surface air temperature	degC	17.6	-0.7	4.6	11.6	18.5	26.4	35.2	34.1	32.3	28.1	15.8	5.1	-0.3	Valdes et al (2021)
+22890	Wulanbulage L.	China	32.6	28.8	Paraceratherium	indet.	0		30.7	41.1	110.9	near-surface air temperature	degC	16.4	-4.3	0.3	7.3	15.1	24.7	36.3	37	34.8	30	14.9	3.3	-2.7	Valdes et al (2021)
+24172	Zavlia (Shand Mbr)	Mongolia	33.9	28.5	Paraceratherium	transouralicum	0	13000000	31.2	46	101	near-surface air temperature	degC	14.4	-11.1	-5.4	3.2	11.9	22.6	36.1	43.1	40.9	29.4	10.5	-0.7	-8.1	Valdes et al (2021)
+24467	Dongxiang Jiaozigou Fm	China	26.7	23	Turpanotherium	yagouense	0		24.8	35.6	103.3	near-surface air temperature	degC	17.6	-0.7	4.6	11.6	18.5	26.4	35.2	34.1	32.3	28.1	15.8	5.1	-0.3	Valdes et al (2021)
+29549	Feiyue Railway station	China	33.9	23	Turpanotherium	elegans	0	5200000	28.5	42.9	89.1	near-surface air temperature	degC	21.3	-4	1.5	10.2	19.8	29.8	42.2	50.5	48.2	37.6	16.8	5.1	-2.3	Valdes et al (2021)
+29546	Jiaozigou Fm.	China	29.2	28.3	Turpanotherium	yagouense	0		28.7	35	103.9	near-surface air temperature	degC	26.5	5.5	11.9	20.1	28.1	37	45.9	43.8	41.5	39.1	26.2	13.1	6.4	Valdes et al (2021)
+29036	Wangjiachuan LX1808	China	26.3	26.1	Turpanotherium	yagouense	0		26.2	35.6	103.3	near-surface air temperature	degC	17.6	-0.7	4.6	11.6	18.5	26.4	35.2	34.1	32.3	28.1	15.8	5.1	-0.3	Valdes et al (2021)
+28081	Aksyir svita	Kazakhstan	41.2	37.7	Urtinotherium	indet.	0		39.5	47.4	85	near-surface air temperature	degC	14.9	-7.3	-4.6	2.1	11.1	22.5	36.4	45.1	41.5	26.7	9.6	0.7	-4.6	Valdes et al (2021)
+22643	Erden Obo	China	33.9	30.3	Urtinotherium	incisivum	0		32.1	42.6	111.5	near-surface air temperature	degC	15.6	-6.7	-1.8	5	13.3	23.6	36.4	39.4	37.4	30	13.3	1.9	-4.5	Valdes et al (2021)
+								Helsinki	28.4	60.19	24.94	near-surface air temperature	degC	11.4	-7.2	-5.1	-0.3	8.6	18.5	29.2	36.4	32.4	18.5	9.7	1.1	-5.6	Valdes et al (2021)
